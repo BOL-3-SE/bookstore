@@ -12,13 +12,13 @@
             <NuxtLink to="/" class="text-gray-600 hover:text-indigo-600">Beranda</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/tentang" class="text-gray-600 hover:text-indigo-600">Tentang</NuxtLink>
+            <NuxtLink to="/about" class="text-gray-600 hover:text-indigo-600">Tentang</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/layanan" class="text-gray-600 hover:text-indigo-600">Layanan</NuxtLink>
+            <NuxtLink to="/service" class="text-gray-600 hover:text-indigo-600">Layanan</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/kontak" class="text-gray-600 hover:text-indigo-600">Kontak</NuxtLink>
+            <NuxtLink to="/contact" class="text-gray-600 hover:text-indigo-600">Kontak</NuxtLink>
           </li>
         </ul>
       </nav>
@@ -31,7 +31,7 @@
           Masuk
         </NuxtLink>
         <NuxtLink
-          to="/daftar"
+          to="/register"
           class="ml-3 px-4 py-2 border border-indigo-600 text-indigo-600 rounded-md hover:bg-indigo-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
         >
           Daftar
