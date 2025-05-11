@@ -3,10 +3,15 @@
     <div class="container mx-auto px-4 py-4 flex items-center justify-between">
       <div class="flex items-center">
         <img
-          src="@/assets/image/logo2.png"
+          src="/image/logo2.png"
           alt="Logo Aplikasi"
           class="h-8 w-auto mr-2"
         />
+        <!-- <img -->
+        <!--   src="@/assets/image/logo2.png" -->
+        <!--   alt="Logo Aplikasi" -->
+        <!--   class="h-8 w-auto mr-2" -->
+        <!-- /> -->
         <NuxtLink
           to="/"
           class="font-bold text-xl text-gray-800 hover:text-indigo-600"
