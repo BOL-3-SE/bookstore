@@ -14,6 +14,9 @@
           <li>
             <NuxtLink to="/about" class="text-gray-600 hover:text-indigo-600">Tentang</NuxtLink>
           </li>
+           <li>
+            <NuxtLink to="/books" class="text-gray-600 hover:text-indigo-600">Daftar Buku</NuxtLink>
+          </li>
           <li>
             <NuxtLink to="/service" class="text-gray-600 hover:text-indigo-600">Layanan</NuxtLink>
           </li>
