@@ -49,10 +49,20 @@ definePageMeta({
 
 const email = ref("")
 const password = ref("")
+//const { $supabase } = useNuxtApp()
 
-function handleLogin() {
-  console.log("Email:", email.value)
-  console.log("Password:", password.value)
-  // Add your login logic here
+async function handleLogin() {
+  //const { error } = await $supabase.auth.signUp({
+  //  email: email.value,
+  //  password: password.value,
+  //})
+
+  if (error) {
+    //alert(error.message)
+    //console.log("error: ", error)
+  } else {
+    //console.log("success register")
+    //navigateTo("/")
+  }
 }
 </script>

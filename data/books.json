@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Creo Parametric 7.0: Introduction to Mechanism Design",
+    "author": "Ascent, Center for Technical Knowledge",
+    "cover_type": "Paperback",
+    "price": "Rp 1,855,000",
+    "category": "Programming",
+    "cover_img": "/image/books/1.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Bali in 1930's",
+    "author": "Fleischmann, Arthur",
+    "cover_type": "Hardcover",
+    "price": "Rp 1,150,000",
+    "category": "Books On Indonesia",
+    "cover_img": "/image/books/2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "The Fight to Vote",
+    "author": "Waldman, Michael",
+    "cover_type": "Paperback",
+    "price": "Rp 357,000",
+    "category": "History",
+    "cover_img": "/image/books/3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Glory of Batik",
+    "author": "Achjadi, Judi",
+    "cover_type": "Paperback",
+    "price": "Rp 450,000",
+    "category": "Books On Indonesia",
+    "cover_img": "/image/books/4.jpeg"
+  }
+]

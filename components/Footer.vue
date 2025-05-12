@@ -6,7 +6,7 @@
         <!-- Logo and company info -->
         <div class="w-full jb-6 md:mb-0">
           <div class="font-bold text-xl mb-2">Bookstore</div>
-          <p class="text-gray-400">Creating amazing experiences since 2010</p>
+          <p class="text-gray-400">Books that stay with you</p>
         </div>
       </div>
 

@@ -17,21 +17,21 @@
 const books = [
   {
     id: 1,
-    title: 'Laskar Pelangi',
-    author: 'Andrea Hirata',
-    description: 'Kisah anak-anak Belitung yang penuh semangat belajar.'
+    title: "Laskar Pelangi",
+    author: "Andrea Hirata",
+    description: "Kisah anak-anak Belitung yang penuh semangat belajar.",
   },
   {
     id: 2,
-    title: 'Negeri 5 Menara',
-    author: 'Ahmad Fuadi',
-    description: 'Kisah inspiratif para santri yang bermimpi besar.'
+    title: "Negeri 5 Menara",
+    author: "Ahmad Fuadi",
+    description: "Kisah inspiratif para santri yang bermimpi besar.",
   },
   {
     id: 3,
-    title: 'Bumi',
-    author: 'Tere Liye',
-    description: 'Petualangan dunia paralel yang seru dan penuh misteri.'
-  }
+    title: "Bumi",
+    author: "Tere Liye",
+    description: "Petualangan dunia paralel yang seru dan penuh misteri.",
+  },
 ]
 </script>

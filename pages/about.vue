@@ -3,9 +3,10 @@
     <div class="w-full max-w-2xl bg-white rounded-2xl shadow-lg p-8">
       <h1 class="text-3xl font-bold text-gray-800 mb-4 text-center">Tentang Website Toko Buku</h1>
       <p class="text-gray-700 mb-4">
-        Selamat datang di website toko buku kami! Kami adalah platform yang dirancang untuk memudahkan
-        proses jual beli buku secara online. Dengan adanya website ini, kami bertujuan untuk
-        meningkatkan aksesibilitas buku bagi masyarakat luas, baik untuk pembeli maupun penjual.
+        Selamat datang di website toko buku kami! Kami adalah platform yang dirancang untuk
+        memudahkan proses jual beli buku secara online. Dengan adanya website ini, kami bertujuan
+        untuk meningkatkan aksesibilitas buku bagi masyarakat luas, baik untuk pembeli maupun
+        penjual.
       </p>
       <h2 class="text-2xl font-semibold text-gray-800 mb-2">Tujuan Kami</h2>
       <p class="text-gray-700 mb-4">
