@@ -25,7 +25,13 @@
           />
         </div>
 
-        <h2 class="text-lg font-bold text-gray-800 mb-1 truncate">{{ book.title }}</h2>
+        <NuxtLink :to="`/books/${book.id}`" class="block">
+          <h2
+            class="text-lg font-bold text-indigo-600 hover:underline hover:text-indigo-800 mb-1 truncate"
+          >
+            {{ book.title }}
+          </h2>
+        </NuxtLink>
         <p class="text-sm text-gray-600 mb-1">{{ book.author }}</p>
 
         <div class="mt-auto mb-1">
