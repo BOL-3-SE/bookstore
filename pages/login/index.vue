@@ -49,14 +49,14 @@ definePageMeta({
 
 const email = ref("")
 const password = ref("")
-//const { login } = useAuth()
+const { login } = useAuth()
 
 const handleLogin = async () => {
   try {
-    //await login(email.value, password.value)
-    //navigateTo("/") // redirect ke halaman home
+    await login(email.value, password.value)
+    navigateTo("/") // redirect ke halaman home
   } catch (err: any) {
-    //errorMsg.value = err.message
+    errorMsg.value = err.message
   }
 }
 </script>
